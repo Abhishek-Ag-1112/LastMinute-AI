@@ -1,0 +1,6 @@
+{
+  "name": "LastMinute AI",
+  "description": "An AI-powered productivity companion that helps you plan, prioritize, and complete tasks before missing deadlines.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
